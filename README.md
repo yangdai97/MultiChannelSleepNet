@@ -1,6 +1,6 @@
 # MultiChannelSleepNet
-### MultiChannelSleepNet: A Transformer-Based Deep Learning Method for Automatic Sleep Stage Classification With Multi-Channel PSG 
-#### *by: Yang Dai, Shanshan Liang, Lukang Wang, Qingtian Duan, Hui Yang, Chunqing Zhang\*, Xiaowei Chen\*, and Xiang Liao\* 
+### MultiChannelSleepNet: A Transformer-based Model for Automatic Sleep Stage Classification with PSG 
+#### *by: Yang Dai, Xiuli li, Shanshan Liang, Lukang Wang, Qingtian Duan, Hui Yang, Chunqing Zhang, Xiaowei Chen, Longhui Li/*, Xingyi Li/*, and Xiang Liao/* 
 
 
 ## Abstract
