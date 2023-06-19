@@ -20,8 +20,8 @@ Automatic sleep stage classification plays an essential role in sleep quality me
 ## Data
 We used three public datasets in this study:
 
-- SleepEDF-20 (The first 39 records in SleepEDF-78)
-- [SleepEDF-78](https://physionet.org/content/sleep-edfx/1.0.0/)
+- SleepEDF-20 (2013 version)
+- [SleepEDF-78](https://physionet.org/content/sleep-edfx/1.0.0/) (2018 version)
 - [SHHS](https://sleepdata.org/datasets/shhs)
 
 This project currently only provides pre-processing code for SleepEDF-20 and SleepEDF-78, and only provides code for sample-wise k-fold cross-validation. We will update the code in the future.  
