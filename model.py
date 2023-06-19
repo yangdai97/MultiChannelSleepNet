@@ -65,8 +65,7 @@ class Transformer(nn.Module):
         x2 = self.transformer_encoder_2(x2)
         x3 = self.transformer_encoder_3(x3)
 
-        x = torch.cat((x1, x2), dim=2)
-        x = torch.cat((x, x3), dim=2)
+        x = torch.cat([x1, x2, x3], dim=2)
 
         x = self.drop(x)
         x = self.layer_norm(x)
